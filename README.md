@@ -5,6 +5,7 @@
 - :file_folder: Em busca de aprender novas tecnologias e compartilhar conhecimentos
 - :heart: Amo ler sobre inteligência artificial e afins
 - ⚡ Fato Curioso: Sou escritora nas horas vagas 
+- :nerd_face: -Swift student 
 
 <br/>
 
