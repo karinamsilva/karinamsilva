@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- :computer: Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo Inglês e Coreano
 - :file_folder: Em busca de aprender novas tecnologias e compartilhar conhecimentos
 - :heart: Amo ler sobre inteligência artificial e afins
