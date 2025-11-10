@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Aprendendo Inglês e Coreano
-- :file_folder: Em busca de aprender novas tecnologias e compartilhar conhecimentos
-- :heart: Amo ler sobre inteligência artificial e afins
+- :file_folder: Em busca de aprender novas tecnologias e compartilhar conhecimentos, me aventurando em Python 🐍
+- :heart: Amo ler e cultura coreana
 - ⚡ Fato Curioso: Sou escritora nas horas vagas 
 - :nerd_face: -Swift student 
 
